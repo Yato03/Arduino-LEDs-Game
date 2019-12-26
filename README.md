@@ -20,5 +20,5 @@ The way in which it is known who has won is that the winner's LED blinks.
 
 In the repository is the circuit code and scheme.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/circuit photo.jpg) 
+![alt text](https://github.com/Yato03/Arduino-LEDs-Game/blob/master/circuit%20photo.jpg) 
 
